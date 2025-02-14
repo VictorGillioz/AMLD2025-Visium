@@ -2,6 +2,10 @@
 
 This workshop is organized by [Visium](https://visium.ch/) for the [Applied Machine Learning Days (AMLD) 2025](https://2025.appliedmldays.org/) at EPFL. It demonstrates how to build sophisticated AI agents using LangChain and LangGraph frameworks.
 
+## Repository
+
+You can find the official repository together with the presentation slides [here](https://github.com/VisiumCH/amld2025-multi-agents-workshop).
+
 ## Workshop Overview
 The workshop explores the progression from basic language models to complex multi-agent systems through hands-on examples in financial analysis.
 
